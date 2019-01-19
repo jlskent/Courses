@@ -1,11 +1,13 @@
-**CSE 501N Programming Concepts and Practice(Test out)**
+**CSE 501N Programming Concepts and Practice(Tested out)**
 
 An introduction to software concepts and implementation, emphasizing problem solving through abstraction and decomposition. Introduces processes and algorithms, procedural abstraction, data abstraction, encapsulation, and object-oriented programming. Recursion, iteration, and simple data structures are covered. Concepts and skills are mastered through programming projects, many of which employ graphics to enhance conceptual understanding. Java, an object-oriented programming language, is the vehicle of exploration. Active-learning sessions are conducted in a studio setting in which students interact with each other and the professor to solve problems collaboratively. 
+
 
 
 **CSE 502N Data Structures and Algorithms**
 
 Study of fundamental algorithms, data structures, and their effective use in a variety of applications. Emphasizes importance of data structure choice and implementation for obtaining the most efficient algorithm for solving a given problem. A key component of this course is worst-case asymptotic analysis, which provides a quick and simple method for determining the scalability and effectiveness of an algorithm.
+
 
 
 **CSE 427S Cloud Computing with Big Data Applications**
@@ -16,25 +18,25 @@ The content of this class is derived largely from the Cloudera Developer Trainin
 
 >97+ for assignments(problems+coding). 
 Used java and hadoop to work on small-scale problems like collaborative filtering and co-occurance and learned basics of job execution, parititioners, combiners, secondary sort, etc. 
->94+ for final assignment(k-means SPARK clustering).>
-Prepocessed a set of geo-data and used SPARK to implement k-means from scratch. 
+>94+ for final assignment(K-means SPARK clustering).Prepocessed a set of geo-data and used SPARK to implement k-means from scratch.
+
 
 
 **CSE 503S Rapid Prototype Development and Creative Programming**
 
 This course uses web development as a vehicle for developing skills in rapid prototyping. Students acquire the skills to build a Linux web server in Apache, to write a web site from scratch in PHP, to run an SQL database, to perform scripting in Python, to employ the AngularJS web framework, and to develop modern web applications in client-side and server-side JavaScript. The course culminates with a creative project in which students are able to synthesize the course material into a project of their own interest. The course implements an interactive studio format: after a formal presentation of a topic, students develop a related project under the supervision of the instructor. 
 
->93+ overall
->full-stack that involves js,python,php,SQL,linux,aws,etc
+>93+ overall. Full-stack that involves js,python,php,SQL,linux,aws,etc
+
 
 
 **CSE 438S Mobile Application Development**
 
 Learn how to create iOS apps in the Swift programming language. This course covers a variety of topics in the development of modern mobile applications, with a focus on hands-on projects. Students will create multiple fully-functional apps from scratch. The course emphasizes object-oriented design patterns and real-world development techniques. Time is provided at the end of the course for students to work on a project of their own interest.
 
->hightlights
-90+ overall, individual work
+>hightlights 90+ overall, individual work 
 Final project: AR zombie shooting created in unity and built in IOS
+
 
 
 **CSE 514A Data Mining**
@@ -49,6 +51,8 @@ Took some effort in pre-processing the data with pandas
 
 
 
+
+
 In progress:
 
 **CSE 530S Database Management Systems**
@@ -56,6 +60,7 @@ In progress:
 A study of data models and the database management systems that support these data models. The design theory for databases is developed and various tools are utilized to apply the theory. General query languages are studied and techniques for query optimization are investigated. Integrity and security requirements are studied in the context of concurrent operations on a database, where the database may be distributed over one or more locations. The unique requirements for engineering design databases, image databases, and long transaction systems are analyzed. 
 
 >build database in java
+
 
 
 **CSE 541T Advanced Algorithms**
